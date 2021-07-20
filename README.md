@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Automation of QA Automation, https://t.me/IgorToster
+I am interested in QA & QA Automation
+
+My telegram: https://t.me/IgorToster
 
 
 <!--
