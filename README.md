@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am interested in QA & QA Automation
+- 🌱 I’m currently learning QA & QA Automation
 
-I work in the field of augmented and virtual reality and design for construction
+- 🔭 I’m currently working in the field of augmented and virtual reality and design for construction
 
-My telegram: https://t.me/IgorToster
+- 📫 How to reach me: https://t.me/IgorToster
 
 
 <!--
