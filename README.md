@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning QA & QA Automation
 
-- 🔭 I’m currently working in the field of augmented and virtual reality and design for construction
+- 🔭 I’m currently working in augmented reality and virtual reality company
 
 - 📫 How to reach me: https://t.me/IgorToster
 
