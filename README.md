@@ -11,7 +11,7 @@
 1. ➿ A simple project with tests on selenide: https://github.com/IgorGerasimenko/About.Me ➿
 2. 👉💻 Mock-server for automation of integration testing:
    https://github.com/IgorGerasimenko/Mock.Server 💻👈
-3. 👍 Rest assured best practices: https://github.com/IgorGerasimenko/RestAssured.Best 👍
+3. 👍 Rest assured best practices + stream API (in progress): https://github.com/IgorGerasimenko/RestAssured.Best 👍
 
 ☝️Look at my projects:☝️
 <!--
